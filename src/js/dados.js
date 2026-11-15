@@ -5,7 +5,7 @@ const estacoesPotengi = {
   'cerro-cora': {
     nome: 'Cerro Corá',
     trecho: 'Alto Curso (Nascente)',
-    anual: 600,
+    anual: 637.7,
     chuvoso: 490, // Acumulado Fev–Jul (82%)
     seco: 110,    // Acumulado Ago–Jan (18%)
     mesPico: 'Abr (125 mm)',
@@ -27,7 +27,7 @@ const estacoesPotengi = {
   'macaiba': {
     nome: 'Macaíba',
     trecho: 'Baixo-Médio Curso',
-    anual: 1180,
+    anual: 1245.9,
     chuvoso: 935, // Acumulado Fev–Jul (79%)
     seco: 245,    // Acumulado Ago–Jan (21%)
     mesPico: 'Abr (215 mm)',
@@ -38,7 +38,7 @@ const estacoesPotengi = {
   'natal': {
     nome: 'Natal',
     trecho: 'Baixo Curso (Foz)',
-    anual: 1450,
+    anual: 1625.7,
     chuvoso: 1165, // Acumulado Fev–Jul (80%)
     seco: 285,     // Acumulado Ago–Jan (20%)
     mesPico: 'Abr (260 mm)',
@@ -48,7 +48,7 @@ const estacoesPotengi = {
   }
 };
 
-const MAXIMO_BACIA = 1450;
+const MAXIMO_BACIA = 1625.7;
 
 // =========================================================
 // 1. COMPARADOR LADO A LADO (REGIÃO A VS. REGIÃO B)
