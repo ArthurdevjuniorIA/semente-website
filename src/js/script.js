@@ -59,17 +59,17 @@ if (cardDesafio && botoesOpcao.length > 0) {
 // =========================================================
 const dadosRegioes = {
   nascente: {
-    volume: '600',
+    volume: '637,7',
     percentual: '41%',
     status: 'Semiárido • Rio intermitente'
   },
   medio: {
-    volume: '780',
+    volume: '496,4',
     percentual: '54%',
     status: 'Agreste • Barragem Campo Grande'
   },
   foz: {
-    volume: '1.450',
+    volume: '1.625,7',
     percentual: '100%',
     status: 'Manguezal cheio • 2,4x mais chuva'
   }

@@ -7,7 +7,7 @@ const dadosBaciaPotengi = {
     badgeNome: 'CERRO CORÁ',
     trecho: 'Alto Curso • Nascente (Serra de Santana)',
     regime: 'RIO INTERMITENTE',
-    mmAno: '600',
+    mmAno: '637,7',
     comparativo: 'Menor índice da bacia • Clima semiárido',
     picoTexto: 'Pico: Fev–Mai',
     mensal: [35, 65, 115, 125, 90, 55, 40, 18, 10, 8, 14, 25],
@@ -32,8 +32,8 @@ const dadosBaciaPotengi = {
         'Mantém o mesmo volume cheio o ano inteiro'
       ],
       correta: 0,
-      explicacaoAcerto: 'Isso aí! Com média de 600 mm/ano e alta evaporação no semiárido, o rio é intermitente na nascente.',
-      explicacaoErro: 'Na verdade, ele seca temporariamente: na nascente (600 mm/ano), o rio é intermitente nos meses sem chuva.'
+      explicacaoAcerto: 'Isso aí! Com média de 637,7 mm/ano e alta evaporação no semiárido, o rio é intermitente na nascente.',
+      explicacaoErro: 'Na verdade, ele seca temporariamente: na nascente (637,7 mm/ano), o rio é intermitente nos meses sem chuva.'
     }
   },
   'sp-potengi': {
@@ -41,8 +41,8 @@ const dadosBaciaPotengi = {
     badgeNome: 'S. P. POTENGI',
     trecho: 'Médio Curso • Agreste Potiguar',
     regime: 'RIO INTERMITENTE',
-    mmAno: '760',
-    comparativo: '+26% de chuva em relação à nascente',
+    mmAno: '496,4',
+    comparativo: '-22% de chuva em relação à nascente',
     picoTexto: 'Pico: Mar–Jun',
     mensal: [42, 75, 135, 150, 115, 78, 55, 25, 15, 12, 22, 36],
     mesesPico: [2, 3, 4, 5],
@@ -75,7 +75,7 @@ const dadosBaciaPotengi = {
     badgeNome: 'MACAÍBA',
     trecho: 'Baixo-Médio Curso • Transição Subúmida',
     regime: 'PERENIZAÇÃO GRADUAL',
-    mmAno: '1.180',
+    mmAno: '1.245,9',
     comparativo: 'Quase o dobro de chuva do alto curso',
     picoTexto: 'Pico: Mar–Jul',
     mensal: [65, 105, 185, 215, 180, 145, 105, 50, 30, 22, 30, 48],
@@ -100,8 +100,8 @@ const dadosBaciaPotengi = {
         'Porque nunca há estiagem no Agreste'
       ],
       correta: 1,
-      explicacaoAcerto: 'Exato! A umidade vinda do Atlântico eleva as chuvas para 1.180 mm/ano e ajuda a perenizar o rio.',
-      explicacaoErro: 'O motivo é a proximidade com os ventos úmidos do litoral, que elevam a média para 1.180 mm/ano.'
+      explicacaoAcerto: 'Exato! A umidade vinda do Atlântico eleva as chuvas para 1.245,9 mm/ano e ajuda a perenizar o rio.',
+      explicacaoErro: 'O motivo é a proximidade com os ventos úmidos do litoral, que elevam a média para 1.245,9 mm/ano.'
     }
   },
   'natal': {
@@ -109,7 +109,7 @@ const dadosBaciaPotengi = {
     badgeNome: 'NATAL',
     trecho: 'Baixo Curso • Foz e Estuário',
     regime: 'RIO PERENE',
-    mmAno: '1.450',
+    mmAno: '1.625,7',
     comparativo: '2,4x mais chuva que na nascente',
     picoTexto: 'Pico: Mar–Jul',
     mensal: [80, 125, 220, 260, 225, 195, 140, 65, 38, 25, 32, 45],
@@ -118,7 +118,7 @@ const dadosBaciaPotengi = {
     hidrologia: 'Encontro com o Oceano Atlântico',
     impacto: 'Alta impermeabilização urbana',
     estacao: 'Março a Julho (72% do anual)',
-    resumo: 'Na foz, a umidade vinda do Oceano Atlântico eleva o volume anual para 1.450 mm, mantendo o rio perene e alimentando o ecossistema de manguezal.',
+    resumo: 'Na foz, a umidade vinda do Oceano Atlântico eleva o volume anual para 1.625 mm, mantendo o rio perene e alimentando o ecossistema de manguezal.',
     // Paleta Estuário/Oceano (Ciano Elétrico, Verde-Lima e Azul Oceano)
     cores: {
       c1: '#00F5D4',
